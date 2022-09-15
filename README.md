@@ -12,7 +12,6 @@
 - [x] On GitHub, the grey "main" button opposite from the green "Code" button will show your named branch's version of code after refreshing the page
 - [x] Create a Pull Request through the top menu of the repository on GitHub; click the green New Pull Request button, then use your own student fork as the base to compare myuser/firstName-lastName to myuser/main. *DO NOT MERGE THE PULL REQUEST!*
 
-
 ## ADD your name to this list
 - Steve Rogers
 - Ryan Hamblin
